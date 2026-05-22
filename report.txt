@@ -1,0 +1,8 @@
+
+Relatório de Processamento
+--------------------------
+Total processado: 150
+Adicionados: 148
+Atualizados: 2
+Ignorados (<18 anos): 0
+Data: 22/05/2026, 19:06:42
